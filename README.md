@@ -16,7 +16,7 @@ namespace kawaaii {
     constructor() {
       super();
       this.name = "Ashley";
-      this.usernames = [ "SprinklezSparklez", "CodingKawaaii", "Kawaaii" ];
+      this.usernames = [ "EdgyCoder", "SprinklezSparklez", "Kawaaii" ];
       this.birthday = moment(761965200);
       this.hobbies = [ "Netflix", "Gaming", "Eating", "Cleaning", "Programming", "YouTube" ];
       this.languages_spoken = [ "Dutch", "English" ];
