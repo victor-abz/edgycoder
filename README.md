@@ -3,7 +3,7 @@
 ```typescript
 import moment from 'moment';
 
-namespace kawaaii {
+namespace edgycoder {
   class About extends Me {
     private name: String;
     private usernames: Array<String>;
