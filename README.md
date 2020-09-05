@@ -31,13 +31,7 @@ namespace edgycoder {
   }
 }
 ```
-
 ---
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edgycoder)
-
----
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-208-blue)
 
@@ -113,11 +107,4 @@ HTML                     2 repos             ██░░░░░░░░░�
 CSS                      1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/edgycoder/edgycoder/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
