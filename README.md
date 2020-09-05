@@ -36,6 +36,13 @@ namespace edgycoder {
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=edgycoder)
 
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <!--
 **kawaaii/kawaaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
