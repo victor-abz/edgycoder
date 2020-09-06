@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```typescript
+<!--```typescript
 import moment from 'moment';
 
 namespace edgycoder {
@@ -32,6 +32,7 @@ namespace edgycoder {
 }
 ```
 ---
+-->
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
 
