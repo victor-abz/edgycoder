@@ -1,38 +1,20 @@
-### Hi there 👋
+## Hi there 👋
+I'm EdgyCoder previously known as Kawaaii (Programming).  
+- 👨‍💻 I'm some sort of a full-stack developer? If [this](https://www.w3schools.com/whatis/whatis_fullstack.asp) description makes me a full-stack developer.
+- 🌱 I work a lot with Javascript especially with NodeJS and I'm afraid for languages such as C++
+- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
+- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
+- 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
+- ❓ Want to know more about me? You can always contact me via serval social medias!
 
-<!--```typescript
-import moment from 'moment';
+## Social media
+[![Discord](https://img.shields.io/discord/661411850856038431?label=Discord%20Guild&style=for-the-badge)](https://discord.gg/44yKPxm)
+‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge)](https://twitter.com/EdgyCoder)
+‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge)](https://stackoverflow.com/users/12418331/kawaaii)
+‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge)](https://www.reddit.com/user/Kawaaii-Programming)  
+*More will follow soon-ish*
 
-namespace edgycoder {
-  class About extends Me {
-    private name: String;
-    private usernames: Array<String>;
-    private birthday: Date;
-    private hobbies: Array<String>;
-    private languages_spoken: Array<String>;
-    private languages_coded: Array<String>;
-    private coding_tools: Array<String>;
-  
-    constructor() {
-      super();
-      this.name = "Ashley";
-      this.usernames = [ "EdgyCoder", "SprinklezSparklez", "Kawaaii" ];
-      this.birthday = moment(761965200);
-      this.hobbies = [ "Netflix", "Gaming", "Eating", "Cleaning", "Programming", "YouTube" ];
-      this.languages_spoken = [ "Dutch", "English" ];
-      this.languages_coded = [ "HTML/CSS", "MarkDown", "PHP", "Python", "JavaScript", "C#" ];
-      this.coding_tools = [ "Visual Studio Code", "Visual Studio 2019" ];
-    }
-  
-    getProfile(): String {
-      return "Nothing important to see here!"; // Maybe later we will reveal information or will we? 😏
-    }
-
-  }
-}
-```
----
--->
+## My weekly Waka stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
 
