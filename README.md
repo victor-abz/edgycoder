@@ -14,6 +14,11 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge)](https://www.reddit.com/user/Kawaaii-Programming)  
 *More will follow soon-ish*
 
+## Current projects
+- [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
+- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
+- Some other small side-projects that are not important enough to mention
+
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
