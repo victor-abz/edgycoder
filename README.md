@@ -23,7 +23,7 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My Github Data** 
 
@@ -66,20 +66,16 @@ Sunday       34 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Vue.js                   8 mins              ███████████████████████░░   93.28% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-IFoN-Website             9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
