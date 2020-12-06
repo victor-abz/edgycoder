@@ -33,9 +33,9 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories
+> 📜 6 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 18 Private Repositories  
 
 **I'm an Early 🐤** 
 
