@@ -27,13 +27,13 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 
 **🐱 My Github Data** 
 
-> 🏆 205 Contributions in the Year 2020
+> 🏆 206 Contributions in the Year 2020
  > 
 > 📦 130.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
 
