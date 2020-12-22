@@ -23,17 +23,17 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 207 Contributions in the Year 2020
+> 🏆 209 Contributions in the Year 2020
  > 
 > 📦 130.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
@@ -66,16 +66,16 @@ Sunday       34 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 34 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Akane-Bot                2 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
