@@ -28,7 +28,7 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 
 **🐱 My Github Data** 
 
-> 🏆 37 Contributions in the Year 2021
+> 🏆 38 Contributions in the Year 2021
  > 
 > 📦 137.5 kB Used in Github's Storage 
  > 
