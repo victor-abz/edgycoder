@@ -24,7 +24,7 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My Github Data** 
 
