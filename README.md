@@ -24,11 +24,11 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 42 Contributions in the Year 2021
+> 🏆 44 Contributions in the Year 2021
  > 
 > 📦 137.5 kB Used in Github's Storage 
  > 
