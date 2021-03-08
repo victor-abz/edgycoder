@@ -22,6 +22,20 @@ I'm EdgyCoder previously known as Kawaaii (Programming).
 - [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
 - Some other small side-projects that are not important enough to mention
 
+## Desk Setup
+So after some time I noticed that more people keep putting their setups in their profiles on different places.  
+So I decided to share my current setup and maybe a picture inside here too!  
+
+### Computer specs
+- **Case**: [Corsair iCUE 220T (Tempered Glass)](https://www.corsair.com/eu/en/Categories/Products/Cases/Mid-Tower-ATX-Cases/220T-RGB/p/CC-9011190-WW#tab-overview)
+- **Motherboard**: [Gigabyte B450 AORUS ELITE](https://www.gigabyte.com/Motherboard/B450-AORUS-ELITE-rev-1x#kf)
+- **CPU**: [AMD Ryzen 5 2600X](https://www.amd.com/en/products/cpu/amd-ryzen-5-2600x)
+- **RAM**: [2x8GB Trident Z RGB (DDR4-2933MHz)](https://www.gskill.com/product/165/167/1536715317/F4-2933C14D-16GTZRXTrident-Z-RGB-(For-AMD)DDR4-2933MHz-CL14-14-14-34-1.35V16GB-(2x8GB))
+- **GPU**: [GeForce GTX 1050 Ti Windforce OC 4G](https://www.gigabyte.com/Graphics-Card/GV-N105TWF2OC-4GD#kf)
+
+### Peripherals
+I will update this soon enough, for now the most important stuff is listed above 😊
+
 ## My weekly Waka stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
