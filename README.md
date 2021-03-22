@@ -42,7 +42,7 @@ I will update this soon enough, for now the most important stuff is listed above
 
 **🐱 My Github Data** 
 
-> 🏆 108 Contributions in the Year 2021
+> 🏆 109 Contributions in the Year 2021
  > 
 > 📦 138.0 kB Used in Github's Storage 
  > 
