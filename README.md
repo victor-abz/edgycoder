@@ -36,84 +36,9 @@ So I decided to share my current setup and maybe a picture inside here too!
 ### Peripherals
 I will update this soon enough, for now the most important stuff is listed above 😊
 
-## My weekly Waka stats
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 114 Contributions in the Year 2021
- > 
-> 📦 138.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 15 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   37.59% 
-🌃 Evening    89 commits     ████████░░░░░░░░░░░░░░░░░   32.48% 
-🌙 Night      58 commits     █████░░░░░░░░░░░░░░░░░░░░   21.17%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Tuesday      69 commits     ██████░░░░░░░░░░░░░░░░░░░   25.18% 
-Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
-Thursday     69 commits     ██████░░░░░░░░░░░░░░░░░░░   25.18% 
-Friday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Saturday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.93% 
-Sunday       44 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.06%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-JavaScript               36 mins             ███████████░░░░░░░░░░░░░░   43.73% 
-JSON                     25 mins             ███████░░░░░░░░░░░░░░░░░░   30.5% 
-Python                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.65% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.87%
-
-🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Panbanan                 1 hr 4 mins         ███████████████████░░░░░░   77.14% 
-Unknown Project          19 mins             █████░░░░░░░░░░░░░░░░░░░░   22.86%
-
-💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Java                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-C#                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
-
-<!--END_SECTION:waka-->
+### Metrics
+![Metrics](https://metrics.lecoq.io/GayCookie?template=classic&languages=1&people=1&gists=1&followup=1&projects=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FAmsterdam)
 
 ## Credits
-- The stats are generated using [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+- The stats are generated using [metrics](https://github.com/lowlighter/metrics)
 - The icons/badges are provided by [Shields.io](https://shields.io/)
