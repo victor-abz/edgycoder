@@ -5,7 +5,7 @@ I'm **GayCookie** previously known as Kawaaii/EdgyCoder.
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
 - 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
 - 📫 I do not write blog posts and my twitter is mostly used when I'm bored or waiting for something.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
+- ❓ Want to know more about me? You can always contact me via several social media!
 
 ## Social media
 [![Discord](https://img.shields.io/discord/777865965542309888?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/rsz9w9P2ht)
