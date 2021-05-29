@@ -9,7 +9,7 @@ I'm **GayCookie** previously known as Kawaaii/EdgyCoder.
 
 ## Social media
 [![Discord](https://img.shields.io/discord/777865965542309888?label=Discord%20Guild&style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/rsz9w9P2ht)
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/edgycoder?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/EdgyCoder)
+‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/agaycookie?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/AGayCookie)
 ‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/kawaaii?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/kawaaii)
