@@ -34,7 +34,12 @@ So I decided to share my current setup and maybe a picture inside here too!
 - **GPU**: [GeForce GTX 1050 Ti Windforce OC 4G](https://www.gigabyte.com/Graphics-Card/GV-N105TWF2OC-4GD#kf)
 
 ### Peripherals
-I will update this soon enough, for now the most important stuff is listed above 😊
+- **Keyboard**: [Corsair K70 RGB Rapidfire](https://www.corsair.com/us/en/Categories/Products/Gaming-Keyboards/RGB-Mechanical-Gaming-Keyboards/K70-RGB-RAPIDFIRE-Mechanical-Gaming-Keyboard-%E2%80%94-CHERRY%C2%AE-MX-Speed-RGB/p/CH-9101014-NA)
+- **Mouse**: [Corsair IronClaw RGB Wireless](https://www.corsair.com/us/en/Categories/Products/Gaming-Mice/Wireless-Gaming-Mice/IRONCLAW-RGB-WIRELESS-Gaming-Mouse/p/CH-9317011-NA)
+- **Headset**: [Corsair Void Pro RGB Wireless (white)](https://www.corsair.com/us/en/Categories/Products/Gaming-Headsets/Wireless-Headsets/void-pro-wireless-config-na/p/CA-9011153-NA)
+- **Speakers**: 
+  - [Google Nest Audio (gray)](https://store.google.com/nl/product/nest_audio)
+  - Some old Logitech speakers, too embarrassed to show those! 😊
 
 ### Metrics
 ![Metrics](https://metrics.lecoq.io/GayCookie?template=classic&languages=1&people=1&gists=1&followup=1&projects=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FAmsterdam)
