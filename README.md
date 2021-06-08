@@ -32,6 +32,9 @@ So I decided to share my current setup and maybe a picture inside here too!
 - **CPU**: [AMD Ryzen 5 2600X](https://www.amd.com/en/products/cpu/amd-ryzen-5-2600x)
 - **RAM**: [2x8GB Trident Z RGB (DDR4-2933MHz)](https://www.gskill.com/product/165/167/1536715317/F4-2933C14D-16GTZRXTrident-Z-RGB-(For-AMD)DDR4-2933MHz-CL14-14-14-34-1.35V16GB-(2x8GB))
 - **GPU**: [GeForce GTX 1050 Ti Windforce OC 4G](https://www.gigabyte.com/Graphics-Card/GV-N105TWF2OC-4GD#kf)
+- **Drives**:
+  - (C:): [Crucial P5 NVMe M.2 SSD](https://www.crucial.com/products/ssd/crucial-p5-ssd)
+  - (D:): [Samsung SSD 860 EVO](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/860evo/)
 
 ### Peripherals
 - **Keyboard**: [Corsair K70 RGB Rapidfire](https://www.corsair.com/us/en/Categories/Products/Gaming-Keyboards/RGB-Mechanical-Gaming-Keyboards/K70-RGB-RAPIDFIRE-Mechanical-Gaming-Keyboard-%E2%80%94-CHERRY%C2%AE-MX-Speed-RGB/p/CH-9101014-NA)
