@@ -17,9 +17,10 @@ I'm **GayCookie** previously known as Kawaaii/EdgyCoder.
 ‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
 
 ## Current projects
+- [Resourceful Geodes (Fabric)](https://github.com/gaycookie/ResourcefulGeodesFabric)
+- [Resourceful Geodes (Bedrock)](https://github.com/gaycookie/ResourcefulGeodes)
+- [Wallpaper Roulette](https://github.com/gaycookie/Wallpaper-Roulette)
 - [Akane-Bot](https://github.com/edgycoder/Akane-Bot) ━ A multi-purpose private Discord bot for Life Needs a Little Sin Discord group!
-- [DiscordWhois](https://discordwhois.xyz) ━ A provider to lookup discord users / guilds!
-- [RandomAPI](https://random.rest) (RaPI) ━ A small API that gives random everything from images to quotes
 - Some other small side-projects that are not important enough to mention
 
 ## Desk Setup
