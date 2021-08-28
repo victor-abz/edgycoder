@@ -45,8 +45,8 @@ So I decided to share my current setup and maybe a picture inside here too!
   - Some old Logitech speakers, too embarrassed to show those! 😊
 
 ### Metrics
-![Metrics](https://metrics.lecoq.io/GayCookie?template=classic&languages=1&people=1&gists=1&followup=1&projects=1&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FAmsterdam)
+[![Code::Stats](https://codestats-readme.wegfan.cn/history-graph/GayCookie?bg_color=0D1117&text_color=aaa&grid_color=333&language_colors=[%223e4053%22,%22cc4b48%22,%22518fbd%22,%22ba7a2b%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22c71585%22,%22b276b2%22])](https://codestats.net/users/GayCookie)
 
 ## Credits
-- The stats are generated using [metrics](https://github.com/lowlighter/metrics)
+- The stats are generated using [codestats-profile-readme](https://github.com/WEGFan/codestats-profile-readme)
 - The icons/badges are provided by [Shields.io](https://shields.io/)
