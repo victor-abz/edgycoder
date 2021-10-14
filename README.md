@@ -43,7 +43,7 @@ So I decided to share my current setup and maybe a picture inside here too!
 - **Mouse**: [Corsair IronClaw RGB Wireless](https://www.corsair.com/us/en/Categories/Products/Gaming-Mice/Wireless-Gaming-Mice/IRONCLAW-RGB-WIRELESS-Gaming-Mouse/p/CH-9317011-NA)
 - **Headset**: [Corsair Void Pro RGB Wireless (white)](https://www.corsair.com/us/en/Categories/Products/Gaming-Headsets/Wireless-Headsets/void-pro-wireless-config-na/p/CA-9011153-NA)
 - **Speakers**: 
-  - [Google Nest Audio (gray)](https://store.google.com/en/product/nest_audio)
+  - 2 x [Google Nest Audio (gray)](https://store.google.com/en/product/nest_audio) (Linked)
   - Some old Logitech speakers, too embarrassed to show those! 😊
 
 ### Metrics
