@@ -39,8 +39,8 @@ So I decided to share my current setup and maybe a picture inside here too!
   - (D:): [Samsung SSD 860 EVO](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/860evo/)
 
 ### Peripherals
-- **Keyboard**: [Corsair K70 RGB Rapidfire](https://www.corsair.com/us/en/Categories/Products/Gaming-Keyboards/RGB-Mechanical-Gaming-Keyboards/K70-RGB-RAPIDFIRE-Mechanical-Gaming-Keyboard-%E2%80%94-CHERRY%C2%AE-MX-Speed-RGB/p/CH-9101014-NA)
-- **Mouse**: [Corsair IronClaw RGB Wireless](https://www.corsair.com/us/en/Categories/Products/Gaming-Mice/Wireless-Gaming-Mice/IRONCLAW-RGB-WIRELESS-Gaming-Mouse/p/CH-9317011-NA)
+- **Keyboard**: [Gigabyte AORUS K1 (Cherry RED)](https://www.gigabyte.com/Keyboard/AORUS-K1#kf)
+- **Mouse**: [White Shark Galahad (Pink)](https://whiteshark.gg/mice/galahad-pink)
 - **Headset**: [Corsair Void Pro RGB Wireless (white)](https://www.corsair.com/us/en/Categories/Products/Gaming-Headsets/Wireless-Headsets/void-pro-wireless-config-na/p/CA-9011153-NA)
 - **Speakers**: 
   - 2 x [Google Nest Audio (gray)](https://store.google.com/en/product/nest_audio) (Linked)
