@@ -8,7 +8,7 @@ I'm **GayCookie** previously known as Kawaaii/EdgyCoder.
 - ❓ Want to know more about me? You can always contact me via several social media!
 
 ## Social media
-[![Fediverse Followers](https://img.shields.io/endpoint?url=https://gaycookie.dev/misskey.php?userId=8zpkico32u&style=for-the-badge)](https://mk.gaycookie.dev/@cookie)
+[![Fediverse Followers](https://img.shields.io/endpoint?url=https://gaycookie.dev/misskey.php?userId=90o91qrqvj&style=for-the-badge)](https://mis.ski/@gaycookie)
 ‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
 ‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
 ‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/GayCookie?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/GayCookie)
@@ -44,6 +44,10 @@ So I decided to share my current setup and maybe a picture inside here too!
 - **Speakers**: 
   - 2 x [Google Nest Audio (gray)](https://store.google.com/en/product/nest_audio) (Linked)
   - Some old Logitech speakers, too embarrassed to show those! 😊
+
+### Network
+- **ISP**: [500/500 Mbit/s Fiber at KPN](https://www.kpn.com/)
+- **Router**: [Synology RT1900ac](https://www.synology.com/products/RT1900ac)
 
 ### Metrics
 [![Code::Stats](https://codestats-readme.wegfan.cn/history-graph/GayCookie?bg_color=0D1117&text_color=aaa&grid_color=333&language_colors=[%223e4053%22,%22cc4b48%22,%22518fbd%22,%22ba7a2b%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22c71585%22,%22b276b2%22])](https://codestats.net/users/GayCookie)
