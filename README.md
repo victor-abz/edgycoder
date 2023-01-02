@@ -8,12 +8,11 @@ I'm **GayCookie** previously known as Kawaaii/EdgyCoder.
 - ❓ Want to know more about me? You can always contact me via several social media!
 
 ## Social media
-[![Fediverse Followers](https://img.shields.io/endpoint?url=https://gaycookie.dev/misskey.php?userId=90o91qrqvj&style=for-the-badge)](https://mis.ski/@gaycookie)
-‎‎ [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
-‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Kawaaii-Programming?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/Kawaaii-Programming)  
-‎‎ [![Keybase PGP](https://img.shields.io/keybase/pgp/GayCookie?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/GayCookie)
-‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-kawaaii-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/kawaaii)
-‎‎ [![Gitter](https://img.shields.io/gitter/room/edgy-irrelevant/community?label=edgy-irrelevant&logo=gitter&logoColor=ffffff&style=for-the-badge)](https://gitter.im/edgy-irrelevant/community)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/12418331?color=%23F48024&label=Stack%20overflow&style=for-the-badge&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/12418331/kawaaii)
+‎‎ [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/GayCookieCodes?label=Reddit&style=for-the-badge&logo=reddit&logoColor=ffffff)](https://www.reddit.com/user/GayCookieCodes)
+‎‎ [![Matrix](https://img.shields.io/matrix/public:gaycookie.dev?server_fqdn=matrix.gaycookie.dev&style=for-the-badge)](https://matrix.to/#/#public:gaycookie.dev)  
+[![Keybase PGP](https://img.shields.io/keybase/pgp/GayCookie?label=Keybase&logo=keybase&logoColor=ffffff&style=for-the-badge)](https://keybase.io/GayCookie)
+‎‎ [![DockerHub Profile](https://img.shields.io/badge/DockerHub-gaycookie-informational?style=for-the-badge&logo=docker&logoColor=ffffff)](https://hub.docker.com/u/gaycookie)
 
 ## Current projects
 - [Resourceful Geodes (Fabric)](https://github.com/gaycookie/ResourcefulGeodesFabric) ━ Adds Geodes to Minecraft that can contain resources.
